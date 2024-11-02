@@ -7,7 +7,7 @@ checking_data_alpe.py
 checking_data_ice.py
 checking_data.py
 edgedriver_win64/
-
+.bat
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
