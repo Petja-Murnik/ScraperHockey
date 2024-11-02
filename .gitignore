@@ -2,8 +2,10 @@
 *.exe
 *.venv
 *.csv 
+checking_data_hokej.py
+checking_data_alpe.py
+checking_data_ice.py
 checking_data.py
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
